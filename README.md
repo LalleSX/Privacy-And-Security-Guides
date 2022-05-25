@@ -25,9 +25,9 @@ if not FOSS then it will be marked as proprietary software or just open source.
 
 ### honorable mentions:
 
--Linux Mint
+-Linux Mint (Also windows like)
 
--Manjaro
+-Manjaro (Based of Arch Linux)
 
 -Pop!_OS (Gaming)
 
