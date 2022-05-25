@@ -21,7 +21,10 @@ Free as in freedom.
 -[Brave Browser](https://brave.com/)
 
 **The best of the best for privacy is the Tor browser**
+
 But its quite slow
+
+-[Tor](https://www.torproject.org/)
 
 ## Password security
 
@@ -33,4 +36,30 @@ But its quite slow
 
 -[Bitwarden](https://bitwarden.com/)
 
+## Email
 
+**A good email service cost a bit of money, but it will not break the bank**
+
+Most of the listed bellow services also have a free introduction to try it out with limited features.
+
+-[Tutanota $](https://tutanota.com/)
+
+-[Protron Email $](https://proton.me/)
+
+## VPN
+
+***DO NOT GET A 'FREE' VPN! THEY WILL STEAL & SELL YOUR DATA***
+
+**MullvadVPN is the best since it does not require you to submit a email and you can pay with monero**
+
+-[MullvadVPN](https://mullvad.net/en/)
+
+-[NordVPN](https://nordvpn.com/)
+
+-[ProtonVPN](https://protonvpn.com/)
+
+## DNS
+
+-[NextDNS](https://nextdns.io/)
+
+-[AdGuardDNS](https://adguard-dns.io/en/welcome.html)
