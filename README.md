@@ -9,5 +9,7 @@ Free as in freedom.
 ## Webbrowser & addons
 
 -[Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
 -[Firefox settings & configs](https://github.com/LalleSX/Privacy-And-Security-Guides/blob/713fe5603472a587b4debb133a94cba48b798ceb/prefs.js)
+
 -[uBlock Origin ad blocker](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
